@@ -1,3 +1,5 @@
+# Prime_devisions_founder Program
+# Made by Kasra Tookallo in 2025
 def is_prime(n):
     """بررسی اول بودن عدد"""
     if n < 2:
